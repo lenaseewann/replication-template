@@ -6,6 +6,10 @@ This is a template you can use for your final projects (as well other projects w
 
 Give a short, 1-2 paragraph description of your project. Focus on the code, not the theoretical / substantive side of things. 
 
+## Lena's Change
+
+It was nice meeting you guys, and working together.
+
 ## Dependencies
 
 List what software your code depends on, as well as version numbers, like so:.
